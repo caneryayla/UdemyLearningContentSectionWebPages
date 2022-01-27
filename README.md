@@ -1,2 +1,2 @@
-# UdemyLearningContentSectionWebPages
+# UdemyLearningContentSectionWebPage
 Yalnızca pc için tasarlandı
